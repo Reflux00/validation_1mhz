@@ -1,0 +1,8 @@
+/data_1mhz/
+/database_1mhz.zip
+/data_all/
+/runs/
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
